@@ -1,4 +1,4 @@
 Season
 ======
 
-Coming Soon Responsive HTML Template
+Coming Soon Responsive HTML Templates
